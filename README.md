@@ -5,4 +5,3 @@ Projeto final da disciplina de POO da Fatec de Mogi Mirim
 ### TIAGO DA COSTA DIAS
 ### WELLINGTON NOGARA
 ### MARCOS VINICIUS
-### LUCAS BOCALINI
